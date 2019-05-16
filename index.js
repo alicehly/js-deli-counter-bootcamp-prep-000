@@ -5,16 +5,6 @@ function takeANumber(katzDeliLine){
   i++;
 katzDeliLine.push(i)
 return`'Welcome. You are number ${katzDeliLine.length} in line.`
- 
-
-
-
-
-
-
-
-
-
 
 }
 
