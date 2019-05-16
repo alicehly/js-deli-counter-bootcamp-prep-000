@@ -1,10 +1,9 @@
 var katzDeliLine = [];
 
 var counter = 0;
-  i++;
   
 function takeANumber(katzDeliLine){
-
+i++;
 katzDeliLine.push(i)
 return `Welcome. You are number ${katzDeliLine.length} in line.`
 
