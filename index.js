@@ -4,7 +4,7 @@ function takeANumber(katzDeliLine){
   var i=[0];
   i++;
 katzDeliLine.push(i)
-return`'Welcome. You are number ${katzDeliLine.length} in line.`
+return`Welcome. You are number ${katzDeliLine.length} in line.`
 
 }
 
