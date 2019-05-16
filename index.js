@@ -1,6 +1,6 @@
 var katzDeliLine = [];
 
-var counter = [0];
+var counter = 0;
   i++;
   
 function takeANumber(katzDeliLine){
